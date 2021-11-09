@@ -1,0 +1,106 @@
+axe adrenaline	7791293022932	desodorante en aero	2.7	2	3	10	2000	*
+tres-d jamon	7790310600825	conos de harina x150g	2.25	0	4	10	2000	*
+tres-d queso	7790310023150	conos de harina x70g	1.1	0	4	10	2000	*
+cheecetos	7790310023136	chizitos de queso x70g	1.1	0	4	10	2000	*
+frenchitas	790310060049	papas fritas x160g	2.25	0	4	10	2000	*
+frenchitas	7790310601822	Fritas sabor fugazzetta x70g	1.1	0	4	10	2000	*
+bimbo	7796989000492	tostadas x200g	1.7	1.42	4	10	2000	*
+bimbo	7796989002038	pan lact. De mesa x550g	1.7	1.42	4	10	2000	*
+bimbo	7796989002045	pan lact. De mesa x330g	1.2	1	4	10	2000	*
+bimbo diet	7796989000904	pan lact. Salvado x390g	1.2	1	4	10	2000	*
+bimbo dulces		madalenas con limon x280g	1	0.83	4	10	2000	*
+bimbo dulces		madalenas vainilla x280g	1	0.83	4	10	2000	*
+bimbo dulces		tutis x500g	1	0.83	4	10	2000	*
+bimbo dulces		alfajor caja x12u. 40g c/u	2.75	2.32	4	10	2000	*
+bimbo dulces		minitri. Caja x12u. 42g c/u	2.75	2.32	4	10	2000	*
+pico dulce	7792860001114	chupetin (en embalaje 48u.)	0.15	0.11	4	10	2000	*
+nevares	7798073180356	budin fantasia c/alm.	0	0.37	4	10	2000	*
+itamari dobro	7891340306548	gall. Rell. Choc. Y chantilly	0	0.4	4	10	2000	*
+itamari atrevidos	7891340306753	gall. Rell. Sabor choc. Blan.	0	0.4	4	10	2000	*
+billiken yogurt	7792222068038	caramelos surt. X720	0	5.8	4	10	2000	*
+pelotitas lheritier	7792860001718	chupetin (en embalaje 100u.)	0	3.4	4	10	2000	*
+bayaspirina	7793640210221	remedios	0.7	5.5	21	10	2000	*
+ibu	7794640140730	analgesico	0.4	4.8	21	10	2000	*
+dorixsina	780085000143	analgesico (cada pastilla)	0.35	0.24	21	10	2000	*
+coca cola	7790895000126	gaceosa fria	1.6	1.35	19	10	2000	coca cola
+coca cola	7790895000997	gaceosa de 2L25 fria	2.2	1.87	19	10	2000	coca cola
+jorgito	77905758	alfajor	0.3	0.192	20	10	2000	dg
+philips	7894400001148	lamparita de 60w	0.8	0.5	20	10	2000	dg
+osram	7790023000318	lampara de 100w	1	0.64	20	10	2000	dg
+philips	7894400001155	lampara de 75w	0.8	0.506	20	10	2000	dg
+cerealfort	77909053	barra de cereales	0.5	0.358	24	10	2000	dg
+cerealmix chocolate	77916525	barra de cereales	0.5	0.358	24	10	2000	dg
+sugus		caramelos sueltos (5 x $0.10)	0.02	2.55	24	10	2000	dg
+bayaspirina	7793640210221	anlagesico (en caja 10 tiras)	0.7	0.55	21	10	2000	enrique
+bayaspirina c		analgesico	0.5	0.35	21	10	2000	enrique
+cafiaspirina	7793640210443	analgesico (caja x10)	0.7	0.58	21	10	2000	enrique
+geniol	7840085000143	analgesico (caja x 10)	0.7	0.5	21	10	2000	enrique
+alive		analgesico (cada pastilla $ 0.4)	4	2.2	21	10	2000	enrique
+cerium		gas butano	1.5	0.8	26	10	2000	horacio
+cerium		gas butano x 440	1.9	1.1	26	10	2000	horacio
+cerium		gas x 700	2.3	1.4	26	10	2000	horacio
+purocol	7792378000128	alcohol etilico	1	0	24	10	2000	mario
+bubbaloo	7895800151389	chicle globo cajax60u	0.05	1.81	20	10	2000	mele
+marlboro box	77918482	cig	1.8	1.66	20	10	2000	mele
+le mans suave k.s.	77916006	cig	1.4	1.293	20	10	2000	mele
+philips morris box 10	77913418	cig	0.8	0.739	20	10	2000	mele
+marlboro box 10	7791489117831	cig	0.8	0.74	20	10	2000	mele
+particulares 30	77973078	cig	1.4	1.3	20	10	2000	mele
+le mans suave largo	77916198	cig	1.5	1.385	20	10	2000	mele
+lm corto	77918802	cig	1.7	1.57	20	10	2000	mele
+lm box	77919106	cig	1.7	1.52	20	10	2000	mele
+lm corto suave	77912015	cig	1.7	1.572	20	10	2000	mele
+malboro comun 	77916433	cig	1.7	1.57	20	10	2000	mele
+lm largo suave	77912107	cig	1.7	1.572	21	10	2000	mele
+parliament	77904812	cig	1.7	1.572	21	10	2000	mele
+marlboro suave 10		cig	0.9	0.832	21	10	2000	mele
+la gotita	77901569	pegamento instantaneo 2ml	2.3	1.693	22	10	2000	mele
+bonobon gold		bombon de chocolate	0.25	0.16	22	10	2000	mele
+virgiunia slim 	77916600	cig	1.5	1.38	23	10	2000	mele
+topline fruta	7790580592103	chicles sin azucar	0.5	0.311	24	10	2000	mele
+topline mentol	7790580592202	chicle sin az. en cajita	0.5	0.311	24	10	2000	mele
+philips morris	77912879	cig	1.5	1.386	24	10	2000	mele
+sidney	 	cig	10	0.847	26	10	2000	mele
+derby de 14	77910776	cig	1	0.92	26	10	2000	mele
+yumy selva	791249006870	caramelos de gelatina	0.3	0.18	26	10	2000	mele
+malboro suave box	77913685	cig	1.8	1.66	23	10	2000	mele y cia
+malboro comun suave	77913500	cig	1.7	1.57	23	10	2000	mele y cia
+lm largo comun	77918994	cig	1.7	1.57	23	10	2000	mele y cia
+lm suave box	77912282	cig	1.7	1.57	23	10	2000	mele y cia
+lemans suave de 10	77919298	cig	1.6	1.47	23	10	2000	mele y cia
+villa vicencio	7790315000446	agua s/gas 500ml	0.7	0.6	19	10	2000	nicolas marasia
+zumuva	7790110010350	vino de mesa blanco	1.25	0.955	21	10	2000	nicolas marasia
+jockey club	77920355	ciga	1.5	1.38557	21	10	2000	nobleza picardo
+jockey largo suave	77910684	cig	1.7	1.57	21	10	2000	nobleza picardo
+jockey cor suave	77910370	cig	1.5	1.38	21	10	2000	nobleza picardo
+kool	77901163	cig	1.7	0	21	10	2000	nobleza picardo
+camel comun	77910974	cig	1.7	1.57	22	10	2000	nobleza picardo
+camel box	77910981	cig	1.8	1.66	22	10	2000	nobleza picardo
+camel box de 10	77920928	cig	0.9	0	22	10	2000	nobleza picardo
+lucky strike comun	77910059	ciga	1.7	1.57	22	10	2000	nobleza picardo
+lucky strike box 	77910066	cig	1.8	1.66	22	10	2000	nobleza picardo
+lucky strike de  10	77910645	cig	0.9	0.83	22	10	2000	nobleza picardo
+derby box	77920201	cig	1.5	1.38	22	10	2000	nobleza picardo
+parisiennes box	77910950	cig	1.7	1.57	22	10	2000	nobleza picardo
+derby suave	77910158	cig	1.4	1.29	22	10	2000	nobleza picardo
+derby comun 	77910967	ciga	1.4	1.29	22	10	2000	nobleza picardo
+derby de 10	77910868	ciga	0.7	1.24	22	10	2000	nobleza picardo
+jockey suave de 10	77910462	cig	0.7	1.24	22	10	2000	NOBLEZA PICARDO
+cuarenta y tres/70	77910318	cig	1.4	1.3	22	10	2000	nobleza picardo
+cuarenta y 3/70 largo	77910431	cig	1.5	1.38	22	10	2000	nobleza picardo
+parisiennes filter	77910325	cig	1.6	1.47	22	10	2000	nobleza picardo
+pall mall sup. long	77910806	cig	1.7	1.57	22	10	2000	nobleza picardo
+john player g. l.	77910905	cig	1.8	1.662	22	10	2000	nobleza picardo
+gitanes box	77910585	cig	1.8	1.662	22	10	2000	nobleza picardo
+parisiennes de 10	77910943	cig	0.85	0.78	23	10	2000	nobleza picardo
+carbon chico		carbon vejetal	2	0	21	10	2000	traberso
+carbon grande x 10 kg		carbon begetal	3.5	2	26	10	2000	traberso
+buzito		globos x 50.	0	1.75	27	10	2000	dg
+DERBY SUABE LARGO	77920249	CIG	150	1.39	28	10	2000	nobleaza picardo
+SOFTMINTS	7791249005323.	PASTILLAS DE MENTA.	0.65	0.44	28	10	2000	dg
+jokey largo	77910653	cig	1.700000	0.000000	29	10	2000	mele
+cruz de malta	7791445001013	yerba mate	1.500000	0.000000	30	10	2000	dg
+buenos dias 220.	791190000224.	fosforos de madera	0.750000	0.450000	30	10	2000	dg
+raid max.	7790520061003.	cucarachas env. dorado.	3.200000	2.860000	9	11	2000	mario.
+estrella x100grs.	7790064001633.	clasico.	1.000000	0.770000	9	11	2000	mario.
+	7791093000130.	vino blanco x 700 c.c.	0.000000	1.150000	10	11	2000	b.a.karina.

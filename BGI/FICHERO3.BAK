@@ -1,0 +1,65 @@
+#include <stdio.h>
+#include <iostream.h>
+#include <stdlib.h>
+#define n 2
+
+
+struct producto{char marca[25]; char codigo[12]; char descrip[25]; float precio;};
+void toma_cad(FILE *, char *, char);
+void main()
+{
+int i, j;
+
+struct producto prod[n], *produ;
+FILE *pf;
+char s;
+
+
+for(i = 0; i < n; i++)
+	{
+	cout << "marca?\n";
+	fflush(stdin);
+	gets(prod[i].marca);
+	cout << "codigo?\n";
+	fflush(stdin);
+	cin >> prod[i].codigo;
+	cout << "descripcion?\n";
+	fflush(stdin);
+	gets(prod[i].descrip);
+	cout << "precio?\n";
+	fflush(stdin);
+	cin >> prod[i].precio;
+	}
+
+pf = fopen("d:\\libro1.csv", "w+");
+for(i = 0; i < n; i++)
+	fprintf(pf, "%s,%s,%s,%f\n", prod[i].marca, prod[i].codigo, prod[i].descrip, prod[i].precio);
+rewind(pf);
+
+produ = (struct producto *) malloc (n * sizeof(struct producto));
+
+for(i = 0; i < n; i++)
+	{
+	toma_cad(pf, (produ+i)->marca, ',');
+	toma_cad(pf, (produ+i)->codigo, ',');
+	toma_cad(pf, (produ+i)->descrip, ',');
+	fscanf(pf, "%f", &(produ+i)->precio);
+	}
+for(i = 0; i < n; i++)
+	cout << (produ+i)->marca << ' ' << (produ+i)->codigo << ' ' << (produ+i)->descrip << ' ' << (produ+i)->precio << '\n';
+rewind(pf);
+fclose(pf);
+}
+
+void toma_cad(FILE *pf1, char *cadena, char stp)
+{
+char s;
+int j;
+j = 0;
+while((s = fgetc(pf1)) != stp)
+	  {
+	  *(cadena+j) = s;
+	  j++;
+	  }
+*(cadena+j) = '\0';
+}
